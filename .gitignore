@@ -1,0 +1,15 @@
+# virtual environment
+venv/
+
+# env files
+.env
+secrets/
+
+# databases
+*.db
+
+# python cache
+__pycache__/
+
+.env
+secrets/
