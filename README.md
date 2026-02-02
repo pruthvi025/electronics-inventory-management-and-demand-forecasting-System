@@ -83,7 +83,6 @@ Built by a team of three developers as a minor project.
 - Role-based access (Admin, Staff, Viewer)  
 - User management panel  
 
----
 
 ## 🏁 Getting Started
 
@@ -91,3 +90,4 @@ Built by a team of three developers as a minor project.
 ```bash
 git clone https://github.com/pruthvi025/Inventory-management-and-Demand-Forecasting-System.git
 cd Inventory-management-and-Demand-Forecasting-System
+
